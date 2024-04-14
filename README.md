@@ -2,7 +2,7 @@
 
 ### [Xin Yao](https://xinyaoict.github.io/) 
 
-<img src="figs/result-3.jpg" alt="drawing" width="500"/> <img src="figs/result-4.jpg" alt="drawing" width="500"/>
+<img src="figs/result-3.jpg" alt="drawing" width="400"/> <img src="figs/result-4.jpg" alt="drawing" width="400"/>
 
 
 This is a repository that implements rebar detection and counting using YOLOv9, which is the newest state-of-the-art object counting and detection model which was published very recently.
