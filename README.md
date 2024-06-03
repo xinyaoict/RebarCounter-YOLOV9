@@ -142,6 +142,7 @@ Now we can examine the training results by showing the plotted training/validati
 from IPython.display import Image
 Image(filename=f"{HOME}/runs/train/exp/results.png", width=1000)
 ```
+<img src="figs/train.png" alt="drawing" width="800"/>
 
 ### 6. Testing the new YOLOv9 model on the Rebar testset
 
